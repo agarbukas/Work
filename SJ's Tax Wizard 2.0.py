@@ -127,7 +127,6 @@ print("!!!!!!DISCLAIMER!!!!!!\n")
 print("Thanks for the checks! Hope this helps!")
 print("Version 2.0")
 print("Licensed by CCC Services LLC")
-print("Annual Subscription cost: Giving Andy time off to watch soccer\n")
 print("****************************StartProgram***********************\n")
 
 while sentinel == 1:
